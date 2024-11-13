@@ -6,13 +6,18 @@ Een eenvoudige webgebaseerde applicatie om cijfers (0-9) te tekenen en te herken
 
 ## 📑 Inhoud
 
+- [⚙️ Installatie en Setup](#-installatie-en-setup)
 - [🔧 Gebruik](#-gebruik)
 - [📂 Projectstructuur](#-projectstructuur)
 - [✨ Functies](#-functies)
 - [💻 Gebruikte Technologieën](#-gebruikte-technologieën)
-- [⚙️ Installatie en Setup](#-installatie-en-setup)
 
 ---
+
+## ⚙️ Installatie en Setup
+
+1. **Repository Downloaden of Kloonen**: Download of kloon deze repository.
+2. **Applicatie Starten**: Open `index.html` in een webbrowser.
 
 ## 🔧 Gebruik
 
@@ -43,10 +48,5 @@ Een eenvoudige webgebaseerde applicatie om cijfers (0-9) te tekenen en te herken
 - **HTML/CSS**: Structuur en styling van de applicatie.
 - **JavaScript**: Voor de functionaliteit en interactie van de applicatie.
 - **TensorFlow.js**: Voor het bouwen en trainen van een neuraal netwerk in de browser.
-
-## ⚙️ Installatie en Setup
-
-1. **Repository Downloaden of Kloonen**: Download of kloon deze repository.
-2. **Applicatie Starten**: Open `index.html` in een webbrowser.
 
 ---
