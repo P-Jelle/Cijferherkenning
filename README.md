@@ -16,7 +16,7 @@ Een eenvoudige webgebaseerde applicatie om cijfers (0-9) te tekenen en te herken
 
 ## ⚙️ Installatie en Setup
 
-1. **Repository Downloaden of Kloonen**: Download of kloon deze repository.
+1. **Repository Downloaden of Clonen**: Download of clone deze repository.
 2. **Applicatie Starten**: Open `index.html` in een webbrowser.
 
 ## 🔧 Gebruik
