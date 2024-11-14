@@ -6,7 +6,7 @@ Een eenvoudige webgebaseerde applicatie om cijfers (0-9) te tekenen en te herken
 
 ## 📑 Inhoud
 
-- [⚙️ Installatie en Setup](#-installatie-en-setup)
+- [⚙️ Installatie](#-installatie)
 - [🔧 Gebruik](#-gebruik)
 - [📂 Projectstructuur](#-projectstructuur)
 - [✨ Functies](#-functies)
@@ -14,10 +14,15 @@ Een eenvoudige webgebaseerde applicatie om cijfers (0-9) te tekenen en te herken
 
 ---
 
-## ⚙️ Installatie en Setup
+## ⚙️ Installatie
 
-1. **Repository Downloaden of Clonen**: Download of clone deze repository.
-2. **Applicatie Starten**: Open `index.html` in een webbrowser.
+- **Repository Downloaden**:  
+   Download deze repository als een ZIP-bestand
+
+- **Repository Clonen**:  
+   Clone de repository met het volgende commando:
+   ```bash
+   git clone https://github.com/P-Jelle/Cijferherkenning.git
 
 ## 🔧 Gebruik
 
